@@ -1,0 +1,20 @@
+# Nickname config!
+
+# Database stuff. DON'T TOUCH PLZ I FNA KTHXBAI
+type: 'mysql'
+
+# More Database stuff. DON'T TOUCH PLZ I FNA KTHXBAI
+host: '5.135.180.175'
+port: '3306'
+user: 'root'
+password: 'matrixmcpass01'
+database: 'sql345863'
+
+# Change name tags if TagAPI is installed?
+tagapi: 'true'
+
+# Should names in the tablist be updated?
+tab: 'true'
+
+# Should all nicknames be unique?
+unique: 'false'

@@ -1,0 +1,20 @@
+name: Nickname
+main: me.onesrodriguez.nickname.Nicky
+version: 1.1
+description: Nickname plugin.
+author: OnesRodriguez
+softdepend: [TagAPI]
+
+commands:
+   nick:
+      description: Set a nickname.
+
+permissions:
+    nickname.use:
+        default: op
+    nickname.use.other:
+        default: op
+    nickname.reset:
+        default: op
+    nickname.reset.other:
+        default: op
